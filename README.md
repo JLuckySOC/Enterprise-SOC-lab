@@ -12,6 +12,8 @@ Lab Architecture
 * Kali Linux Attacker – Simulated adversary, used for scanning/brute force attempts.
 * Splunk – Centralized logging, ingestion from Splunk Universal Forwarder, detection dashboards.
 
+https://github.com/JLuckySOC/Enterprise-SOC-lab/blob/9889f96466634399ef6f72b5a3ba528cf1f9a159/Network%20Architecture.png
+
 Authentication & Account Activity
 
 * Tracks failed vs. successful logons in real time
@@ -29,6 +31,8 @@ Simulated Attacks
 * Brute Force Attempts – Multiple failed logons to simulate credential guessing.
 * Reconnaissance – nmap and ICMP scans from Kali Linux.
 * Persistence Tests – New account creation for red team activity simulation.
+
+https://github.com/JLuckySOC/Enterprise-SOC-lab/blob/24ae143c981f2caba3ac380749214682afa8992b/Splunk_Dashboard_Main.png
 
 Repo Structure
 soc-lab-simulation
