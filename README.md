@@ -33,11 +33,19 @@ Simulated Attacks
 Repo Structure
 soc-lab-simulation/
 │
+
 ├── images/
+
 │   ├── diagrams/        # Network architecture diagrams
+
 │   └── screenshots/     # Splunk dashboards, firewall rules, AD proof
+
 │
+
 ├── docs/
+
 │   └── setup-notes.md   # Configs, steps, troubleshooting (in progress)
+
 │
+
 └── README.md            # You are here
