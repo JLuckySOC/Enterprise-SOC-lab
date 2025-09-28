@@ -37,16 +37,16 @@ soc-lab-simulation
 
 ├── images/
 
-│   ├── diagrams/          # Network architecture diagrams
+│   ├── diagrams/          #Network architecture diagrams
 
-│   └── screenshots/       # Splunk dashboards, firewall rules, AD proof
+│   └── screenshots/       #Splunk dashboards, firewall rules, AD proof
 
 │
 
 ├── docs/
 
-│   └── setup-notes.md     # Configs, steps, troubleshooting (in progress)
+│   └── setup-notes.md     #Configs, steps, troubleshooting (in progress)
 
 │
 
-└── README.md              # You are here
+└── README.md              #You are here
