@@ -31,7 +31,8 @@ Simulated Attacks
 * Persistence Tests – New account creation for red team activity simulation.
 
 Repo Structure
-soc-lab-simulation/
+soc-lab-simulation
+
 │
 
 ├── images/
